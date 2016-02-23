@@ -1,5 +1,5 @@
-Package: BSgenome.Bdistachyon.JGI.Bd3.0
-Title: Full genome sequences for Brachypodium distachyon (JGI version 3.0)
+Package: BSgenome.Bdistachyon.JGI.Bd3.1
+Title: Full genome sequences for Brachypodium distachyon (JGI version 3.0 assembly)
 Description: Full genome sequences for Brachypodium distachyon Bd21 (Purple false brome) as provided by the US Department of Energy Joint Genome Institute (DOE-JGI; Phytozome v11) and stored in Biostrings objects. The chloroplast genome is obtained from the NCBI Nucleotide database under the accession EU325680.
 Version: 1.0.0
 Author: I-Hsuan Lin
